@@ -2,7 +2,7 @@
 1. Install python [here](https://www.python.org/downloads/windows/). *(I tested on version 3.12.3)*
     - *Be sure to check this box in the installation window*: **Add python exe to PATH**
 2. Log into the pishock account, plug the pishock hub in, turn the collar on. Make sure you can see the collar in the web interface.
-3. Download this repo's [Latest Release]()
+3. Download this repo's [Latest Release](https://github.com/giplgwm/Yugioh-MasterDuel-Pishock/releases/latest) and extract the folder.
 4. Run `setup.py` and wait until it says it is done. It will probably have a few dependancies to install.
 5. Run `Yugioh_shocker.pyw` and the interface should pop up. The program will send a 1 second beep when it opens to let you know the collar is working as expected.
     - If nothing shows up, try installing the microsoft-c++-redistributable [here](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
