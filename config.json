@@ -1,0 +1,13 @@
+{
+  "account": {
+    "username": "",
+    "api_key": "",
+    "share_code": "",
+    "program_name": "Yugioh_shock_bot"
+  },
+  "bot_behaviour": {
+    "detection_threshold": 0.8,
+    "scanning_cooldown_after_shocking_ms": 120000,
+    "screen_scan_interval_ms": 250
+  }
+}
