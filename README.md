@@ -1,3 +1,7 @@
+# Yugioh Master Duel Pishock
+This program will send a shock signal to a [Pishock Collar](https://pishock.com/#/) when you lose a game of [Yugioh Master Duel](https://store.steampowered.com/app/1449850/YuGiOh_Master_Duel/).
+![Preview Image](pishock_preview.png "Preview Image")
+
 # Usage:
 1. Install python [here](https://www.python.org/downloads/windows/). *(I tested on version 3.12.3)*
     - *Be sure to check this box in the installation window*: **Add python exe to PATH**
@@ -21,3 +25,5 @@
 
  # Libraries Used:
   Signals are sent to the pishock using [Pishockpy by UWUplus](https://github.com/UWUplus/pishockpy)
+
+  ## For other games consider trying [Multishock v3](https://mshock.akiradev.me/guides/v3/) 
